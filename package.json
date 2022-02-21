@@ -1,6 +1,6 @@
 {
-  "name": "express-questionnaire-survey",
-  "version": "0.0.0",
+  "name": "project-template",
+  "version": "1.0.0",
   "private": true,
   "scripts": {
     "start": "node ./bin/www",
@@ -22,5 +22,21 @@
     "https": "^1.0.0",
     "morgan": "~1.9.1",
     "nodemon": "^2.0.15"
-  }
+  },
+  "description": "a project template with some initial setting and models/controller folder",
+  "main": "app.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/doremi31618/express-project-template.git"
+  },
+  "keywords": [
+    "project-template"
+  ],
+  "author": "doremi31618",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/doremi31618/express-project-template/issues"
+  },
+  "homepage": "https://github.com/doremi31618/express-project-template#readme"
 }
